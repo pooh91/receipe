@@ -5,4 +5,4 @@
 - Pour boiling water into baking dish until halfway up the side of the tins. Carefully transfer to the oven and bake until set but still slightly wobbly in the centres, about 45 minutes. Remove from the oven and allow to cool slightly.
 - Transfer tins onto a tray and place into the fridge to set. Invert into shallow bowls to serve.
 
-![caramel]()
+![](https://github.com/vishnupriya-whitehatjr/c26-v2-MasterchefJunior/blob/master/caramel.jpg)
