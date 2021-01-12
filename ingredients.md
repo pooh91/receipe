@@ -10,5 +10,5 @@
 - 110g caster sugar
 - 250g milk
 - 250g thickened cream
-- 1 vanilla bean, split lengthways
+- 1 vanilla bean, split lengthway
 
